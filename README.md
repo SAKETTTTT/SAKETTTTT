@@ -25,6 +25,10 @@ _Data Analyst Intern (Remote) — May 2025 – July 2025_
 
 ## 🛠️ Projects
 
+ - **House Price Prediction** (Jul 2025)
+   *Tech stack:* Python,Scikit-Learn,Matplotlib,Seaborn
+   Built and optimized machine learning regression models to predict housing prices.
+
 - **Ecommerce Website** (Nov 2024)  
   *Tech stack:* HTML, CSS, JS, React JS, MongoDB  
   Developed an e-commerce website for multiple products, using MongoDB for the database.
@@ -32,6 +36,8 @@ _Data Analyst Intern (Remote) — May 2025 – July 2025_
 - **Face Emotion Classification** (Mar 2023)  
   *Tech stack:* Python, OpenCV  
   Developed a real-time emotion detector using OpenCV.
+
+
 
 ---
 
