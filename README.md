@@ -25,8 +25,8 @@ _Data Analyst Intern (Remote) — May 2025 – July 2025_
 
 ## 🛠️ Projects
 
- - **House Price Prediction** (Jul 2025)
-   *Tech stack:* Python,Scikit-Learn,Matplotlib,Seaborn
+ - **House Price Prediction** (Jul 2025)  
+   *Tech stack:* Python,Scikit-Learn,Matplotlib,Seaborn  
    Built and optimized machine learning regression models to predict housing prices.
 
 - **Ecommerce Website** (Nov 2024)  
