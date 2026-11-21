@@ -63,7 +63,7 @@ Most of what I build has one goal: take something slow and manual (a test run, a
 <td width="50%" valign="top">
 
 ### 🚕 Uber Trip Analysis
-Dug into raw Uber trip data: cleaned it, engineered 15+ time and duration features, and looked at business vs personal trips, trip purposes and day vs night patterns. Benchmarked regression models for trip distance and tuned them with GridSearchCV.
+Cleaned 1,154 Uber trips from 2016 and explored when and why they happen: business vs personal, time of day, purpose, month and weekday. Then predicted trip distance with a linear regression (R² 0.75) and grouped trips into three types with KMeans.
 
 `Python` `Pandas` `Seaborn` `Scikit-Learn`
 
@@ -73,9 +73,9 @@ Dug into raw Uber trip data: cleaned it, engineered 15+ time and duration featur
 <td width="50%" valign="top">
 
 ### 🏠 House Price Prediction
-Regression models that predict house prices, kept honest with cross-validation and GridSearchCV. Feature-importance analysis pulled out the top 10 things that drive price.
+A Keras neural network that predicts Seattle-area house prices from 21,613 sales. It predicts log price, scales the features and uses dropout and L2 regularization, and explains about 84% of the variance on held-out data.
 
-`Python` `NumPy` `Scikit-Learn`
+`Python` `TensorFlow` `Pandas` `Scikit-Learn`
 
 [**→ View repo**](https://github.com/SAKETTTTT/House-Price-Prediction)
 
@@ -85,9 +85,9 @@ Regression models that predict house prices, kept honest with cross-validation a
 <td width="50%" valign="top">
 
 ### 🛒 E-commerce App
-A multi-product online store with a React front end and MongoDB behind it.
+A full-stack online store: product search and filters, cart, Braintree payments and an admin dashboard.
 
-`React` `JavaScript` `MongoDB`
+`React` `Node.js` `Express` `MongoDB`
 
 [**→ View repo**](https://github.com/SAKETTTTT/ecommerce-app-2023)
 
