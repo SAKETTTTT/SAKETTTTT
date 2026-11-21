@@ -36,20 +36,23 @@ Most of what I build has one goal: take something slow and manual (a test run, a
 
 ## 💼 Experience
 
-**⚙️ Software Engineer** · S2V Automation, onsite at ABB · *Jul 2026 – present* · Bengaluru
-- Built a pipeline that runs predefined functional test cases automatically, so nobody has to re-run them by hand and track results in a sheet
-- Added CPU-usage monitoring to one-hour test runs; metrics, status and logs get bundled into one artifact and pushed to Azure on their own
-- Building an internal product-configuration tool so setup works the same way every time
-- Led an internal project end to end, from requirements to release, inside an Agile/Scrum team
+**⚙️ Software Engineer | S2V Automation (Onsite ABB)** · *July 2026 – Present* · Bangalore, Karnataka
+- Built an automated product-testing pipeline to run predefined functional test cases, removing the need for repeated manual test execution and result tracking
+- Integrated CPU utilization monitoring into one-hour test runs, generating artifacts that consolidate performance metrics, execution status, and test logs; automatically uploaded results to Azure for analysis and review
+- Engineering an internal product-configuration tool that standardizes setup workflows, improves configuration consistency, and accelerates cross-functional product onboarding
+- Led end-to-end delivery of an internal project, from requirements gathering and feature development through testing and release, while collaborating with cross-functional teams in an Agile/Scrum environment
 
-**📊 Intern** · ABB · *Feb – Jun 2026* · Bengaluru
-- Built a budget forecasting and reporting setup in Excel, Power Query and Power BI for 40+ project managers
-- Merged 40+ forecast spreadsheets with Power Query, cutting manual consolidation time by 70%
-- Built Power BI dashboards for budgets, resource use and quarterly forecast trends
-- Helped build an internal tool with Python, Flask, HTML and CSS
+**📊 Intern | ABB** · *Feb 2026 – June 2026* · Bangalore, Karnataka
+- Engineered a budget forecasting and reporting framework using Excel, Power Query, and Power BI, streamlining project financial tracking across 40+ Project Managers
+- Consolidated and transformed data from 40+ project forecast spreadsheets via Power Query ETL workflows, reducing manual data consolidation time by 70% and enabling centralized analytics
+- Built interactive Power BI dashboards providing real-time insights into project budgets, resource utilization, and quarterly forecast trends, directly supporting operational decision-making
+- Designed an end-to-end automated data pipeline enabling Project Managers to track budget variance and resource utilization, eliminating manual reporting and improving forecast accuracy
+- Assisted in development of an internal tool using Python, Flask, HTML, CSS, and configured pipeline for product configuration
 
-**🧮 Data Analyst Intern** · Shri Om Infotech · *May – Jul 2025* · Remote
-- Cleaned and prepared data for ML with Pandas, NumPy and SQL, and automated the pipelines feeding model training and reports
+**🧮 Data Analyst Intern | Shri Om Infotech** · *May 2025 – July 2025* · Remote
+- Processed and transformed data to make them ML-ready using Python (Pandas, NumPy) and SQL
+- Developed and automated data pipelines for model training and reporting workflows
+- Performed data cleaning, outlier detection, and feature validation to ensure data integrity across multiple analytical projects
 
 <br />
 
