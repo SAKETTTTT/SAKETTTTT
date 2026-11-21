@@ -42,29 +42,11 @@ Most of what I build has one goal: take something slow and manual (a test run, a
 - Building an internal product-configuration tool so setup works the same way every time
 - Led an internal project end to end, from requirements to release, inside an Agile/Scrum team
 
-**🎉 Event Co-Lead, Clinic Launch** · Freelance · *Jul 2026* · Bengaluru
-- Co-led a launch event for 70–75 guests with a 5–6 person team and a ₹2L+ budget
-- Sourced the venue, negotiated with 5–6 vendors and handled their contracts
-- Ran the event day from setup to breakdown, tracking tasks across the team and fixing issues on the spot
-
-**📣 Influencer Campaign Coordinator** · Freelance · *Jun 2026* · Bengaluru
-- Coordinated a ₹5L campaign for a national education brand across 10 creators, delivered at ₹0.80 CPV
-- Drove a 30% increase in participation for the brand so far
-- Managed briefs, timelines and content approvals, and reported performance from a tracker of deliverables, views, engagement and CPV
-
-**🎶 Event Operations Coordinator, Live Music Event** · Freelance · *May 2026* · Bengaluru
-- Managed guest onboarding and entry for a crowd of ~80
-- Coordinated with the performing music groups and handled crowd management and on-ground issues
-
 **📊 Intern** · ABB · *Feb – Jun 2026* · Bengaluru
 - Built a budget forecasting and reporting setup in Excel, Power Query and Power BI for 40+ project managers
 - Merged 40+ forecast spreadsheets with Power Query, cutting manual consolidation time by 70%
 - Built Power BI dashboards for budgets, resource use and quarterly forecast trends
 - Helped build an internal tool with Python, Flask, HTML and CSS
-
-**🏆 Sports Event Coordinator** · Karnavati University · *Nov 2025* · Gandhinagar
-- Led an inter-college sports event with 300+ participants and a 15+ volunteer team
-- Grew participation 40% over the previous year through outreach and a reworked format, recognised by the university administration
 
 **🧮 Data Analyst Intern** · Shri Om Infotech · *May – Jul 2025* · Remote
 - Cleaned and prepared data for ML with Pandas, NumPy and SQL, and automated the pipelines feeding model training and reports
@@ -143,10 +125,16 @@ A Flask web app that finds faces with OpenCV and classifies seven emotions (angr
 
 <br />
 
-## 🌟 Beyond work
+## 🎪 Off the keyboard
 
+Not everything I do is code. A lot of my favourite work has been getting people, budgets and timelines to line up:
+
+- 🎉 **Clinic launch event**: co-led a launch for 70+ guests on a ₹2L+ budget, sourced the venue and negotiated with 5–6 vendors
+- 📣 **Influencer campaign**: coordinated a ₹5L campaign for a national education brand across 10 creators, delivered at ₹0.80 CPV
+- 🎶 **Live music night**: handled guest entry and on-ground ops for a crowd of ~80
+- 🏆 **Inter-college sports fest**: led 300+ participants and 15+ volunteers, with participation up 40% on the previous year
 - 🏏 State-level cricket and volleyball player
-- 🗣️ English, Hindi and Gujarati (fluent), plus a little German
+- 🗣️ English, Hindi, Gujarati, and a little German
 
 <br />
 
